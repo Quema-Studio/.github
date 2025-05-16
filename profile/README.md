@@ -1,5 +1,33 @@
-## Hi there 👋
+# Quema Studio
 
+> We turn imagination into reality
+
+---
+
+## 🌍 About Us
+
+**Quema Studio** is a development collective focused on building intuitive **mobile applications** and creative **Minecraft plugins**.  
+We value clean code, innovative ideas, and user-focused design.  
+We are devoted to crafting digital experiences that resonate with purpose and creativity.
+
+---
+
+## 🔧 Our Focus
+
+- 📱 Mobile Apps (Dart, Kotlin)
+- ⛏️ Minecraft Plugins (Kotlin)
+- 💡 Tools & Automation
+
+---
+
+## 📫 Contact
+
+For collaborations, questions:  
+**GitHub Issues**, or message us on Instagram: [h.s_0x6](https://www.instagram.com/h.s_0x6) 
+
+---
+
+> Made with purpose. 
 <!--
 
 **Here are some ideas to get you started:**
