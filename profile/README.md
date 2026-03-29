@@ -23,7 +23,7 @@ We are devoted to crafting digital experiences that resonate with purpose and cr
 ## 📫 Contact
 
 For collaborations, questions:  
-**GitHub Issues**, or message us on Instagram: [quema_100](https://www.instagram.com/quema_100)]
+**GitHub Issues**, or message us on Instagram: [[quema_100](https://www.instagram.com/quema_100)]
 
 ---
 
